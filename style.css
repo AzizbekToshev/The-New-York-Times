@@ -1,0 +1,260 @@
+.navbar{
+    position: relative;
+}
+
+
+.fa-bars{
+   margin-left: 10px;
+}
+
+.fa-search{
+   margin-left: 10px;
+}
+
+.space
+{
+    margin-left: 10px;
+}
+
+
+
+.elements {
+    margin-left: 10px;
+    display: inline-block; 
+    margin: 20px 0px;
+    position: absolute;
+    top:  -10px  ;
+}
+
+.element {
+    display: inline-block;
+    width: 400px;
+    margin-left: 500px;
+    position: absolute;
+   margin-top: -40px;
+}
+
+svg {
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+    
+    display: inline-block;
+    position: absolute;
+}
+   
+   .right,
+   .right1 {
+       width: 140px;
+       height: 35px;
+       background-color: #567b95;
+       color: white;
+   }
+   .right {
+       margin-left: 1190px;
+   }
+   h1 {
+       font-size: 40px;
+       color: #121212;
+       margin-left: 0 auto;
+   }
+
+   .big {
+       width: 945px;
+       height: 531px;
+       margin-left: 280px;
+   }
+
+   .fig {
+       margin-left: 280px;
+   }
+
+   .rick {
+       color: #888;
+       font-size: 15px;
+   }
+
+   h3 {
+       margin-left: 530px;
+   }
+
+   
+       .date1 {
+           margin-left: 530px;
+       }
+      
+.ftmsh1{
+width: 15px;
+height: 15px;
+background-color: gray;
+border-radius: 50px;
+padding: 5px;
+margin-left: 300px ;
+}
+
+.ftmsh2{
+width: 15px;
+height: 15px;
+background-color: gray;
+border-radius: 50px;
+padding: 5px;
+margin-left:330px ;
+}
+               
+.ftmsh3{
+width: 15px;
+height: 15px;
+background-color: gray;
+border-radius: 50px;
+padding: 5px;
+margin-left:360px ;
+}
+                           
+.ftmsh4{
+width: 15px;
+height: 15px;
+background-color: gray;
+border-radius: 50px;
+padding: 5px;
+margin-left:390px ;
+}
+.ftmsh5{
+    width: 25px;
+    height: 25px;
+    margin-left: 420px;
+ }
+.ftmsh6{
+   width: 25px;
+   height: 25px;
+   margin-left: 450px;
+   }                                    
+.for-icon{
+   position: relative;
+   bottom: 18px;
+}
+                                                  
+.ftmsh1:hover,
+.ftmsh2:hover,
+.ftmsh3:hover,
+.ftmsh4:hover {
+   background-color: white;
+   border: 1px solid gray;
+}
+
+.gap {
+   margin-left: 319px;
+}
+
+aside {
+   float: right;
+   position: relative;
+   width:250px;
+   height: 350px;
+   
+
+}
+
+.text-for-img{
+   width: 140px;
+   float: right;
+   position: relative;
+   bottom: 90px;
+   margin-right: 10px;
+}
+
+
+.unlock {
+   text-align: center;
+   margin: 0 auto;
+   width: 600px;
+}
+div {
+   display: block;
+}
+
+.pic {
+width: 945px;
+}
+
+section {
+   margin: 0 auto;
+   width: 100%;
+   display: block;
+}
+
+.img2 {
+   width: 945px;
+   height: 576px;
+   margin: 0 auto;
+}
+
+.pt1,
+.pt2,
+.pt3,
+.pt4,
+.pt5,
+.pt6,
+.pt7,
+.pt8 {
+   width: 180px;
+   height: 171px;
+   font-size: 14px;
+}
+.img1 {
+   position: relative;
+}
+
+.fp1 {
+   position: relative;
+   top: -450px;
+}
+
+.fp2 {
+   position: relative;
+   top: -640px;
+   left: 250px;
+}
+
+.fp3 {
+   position: relative;
+   top: -825px;
+   left: 500px;
+}
+
+.fp4 {
+   position: relative;
+   top: -1010px;
+   left: 750px;
+}
+
+.sp1 {
+   position: relative;
+   top: -910px;
+   left: 10px;
+}
+
+.sp2 {
+   position: relative;
+   top: -1100px;
+   left: 250px;
+}
+
+.sp3 {
+   position: relative;
+   top: -1285px;
+   left: 490px;
+}
+
+.sp4 {
+   position: relative;
+   top: -1470px;
+   left: 730px;
+}
+
+
+.p1 {
+   margin-left: 290px;
+}
+
+
+   
