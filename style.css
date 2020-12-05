@@ -261,9 +261,6 @@ section {
    margin-left: 420px;
 }
 
-* {
-   /* border: 1px solid black; */
-}
 
 .figc2 {
  margin-left: 0px;
@@ -383,7 +380,7 @@ display: inline-block;
    color: black;
 }
 
-}
+
 
 .footer2 {
    position: relative;
