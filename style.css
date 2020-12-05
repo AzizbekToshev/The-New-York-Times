@@ -305,6 +305,188 @@ footer {
    display: block;
 }
 
-.rowspopular {
+.mars {
+   margin-left: -300px;
+   width: fit-content;
    display: inline-block;
+   position: absolute;
+   margin-top: 210px;
+   color: rgb(10, 10, 10);
+}
+.top {
+   display: inline-block;
+}
+.bottom {
+   display: inline-block;
+}
+
+.sectionimg {
+   padding: 40px;
+}
+
+.bigdiv1 {
+   width: fit-content;
+   float: left;
+}
+
+.floatright {
+   width: 85%;
+   margin-left: 10%;  
+   float: right;
+   margin-top: -590px;
+   margin-right:-400px;
+}
+
+.popular {
+   margin-left: 550px;
+   width: fit-content;
+   color:black ;
+}
+
+section div h3 a {
+   color: black;
+   text-decoration: none;
+}
+ul li {
+   list-style-type: none;
+}
+
+
+.footer2 section ul {
+   display: inline-block;
+}
+
+.gogo {
+   padding-top: 10px;
+   float: right;
+   margin-left: 500px;
+}
+
+.header {
+display: inline-block;
+}
+
+.news {
+   margin-left: 40px;
+   width: fit-content;
+   margin-top: 50px;
+}
+
+.end {
+   width: fit-content;
+}
+
+.end,
+.end2,
+.end3,
+.end4 ul li {
+   color: black;
+}
+
+}
+
+.footer2 {
+   position: relative;
+}
+
+.end {
+   margin-top: 100px;
+   position: absolute;
+   left: 110px
+}
+.end1 {
+   margin-top: 100px;
+   position: absolute;
+   left: 250px;
+}
+.end2 {
+   margin-top: 100px;
+   position: absolute;
+   left: 450px
+}
+
+.end3 {
+   margin-top: 100px;
+   position: absolute;
+   left: 650px
+}
+
+.end4 {
+   margin-top: 100px;
+   position: absolute;
+   left: 850px;
+}
+
+.end5 {
+   margin-top: 100px;
+   position: absolute;
+   left: 1030px;
+}
+
+.end6 {
+   margin-top: 100px;
+   position: absolute;
+   left: 1200px;
+}
+
+
+.news
+ {
+    position: absolute;
+    margin-left: -60px;
+}
+.news2 {
+   position: absolute;
+   margin-left: 100px;
+   margin-top: 50px;
+}
+/* .news3 {
+   position: absolute;
+   margin-left: 100px;
+   margin-top: 50px;
+} */
+
+.news3 {
+   position: absolute;
+   margin-left: 280px;
+   margin-top: 50px;
+}
+
+.news4 {
+   position: absolute;
+   margin-left: 480px;
+   margin-top: 50px;
+}
+
+.news5 {
+   position: absolute;
+   margin-left: 680px;
+   margin-top: 50px;
+}
+
+.news6 {
+   position: absolute;
+   margin-left: 860px;  
+   margin-top: 50px;
+}
+
+
+
+.news7 {
+   margin-top: 100px;
+   position: absolute;
+   margin-left: 1000px;
+}
+
+.css-r5ic95 {
+   width: 10px;
+   margin-top: -40px;
+   margin-left: -15px;
+}
+
+.lastend {
+   margin-top: 1100px;
+   font-size: 12px;
+   margin-left: 200px;
+   color: black;
 }
